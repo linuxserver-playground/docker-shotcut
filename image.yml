@@ -14,6 +14,9 @@ upstream:
   notes:
     type: github_release
     repo: mltframework/shotcut
+  sponsor:
+  - name: Shotcut PayPal donate
+    url: https://www.paypal.com/donate?hosted_button_id=XD364WFCHD46N
 
 release:
   branch: main
