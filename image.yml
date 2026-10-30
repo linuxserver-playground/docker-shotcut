@@ -9,6 +9,8 @@ upstream:
   version:
     type: github_release
     repo: mltframework/shotcut
+    require_assets:
+      - asset: 'x86_64.*\.txz$'
   notes:
     type: github_release
     repo: mltframework/shotcut
